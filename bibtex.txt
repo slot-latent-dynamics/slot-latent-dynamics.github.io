@@ -1,6 +1,6 @@
 @article{sold2024mosbach,
   title={SOLD: Reinforcement Learning with Slot Object-Centric Latent Dynamics},
-  author={Malte Mosbach and Jan Ewertz and Angel Villar-Corrales and Sven Behnke},
-  journal={arXiv preprint},
+  author={Malte Mosbach, Jan Niklas Ewertz, Angel Villar-Corrales and Sven Behnke},
+  journal={arXiv preprint arXiv:2410.08822},
   year={2024}
 }

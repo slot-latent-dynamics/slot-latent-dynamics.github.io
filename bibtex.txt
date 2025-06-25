@@ -1,0 +1,6 @@
+@inproceedings{sold2025mosbach,
+  title={SOLD: Slot Object-Centric Latent Dynamics Models for Relational Manipulation Learning from Pixels},
+  author={Malte Mosbach and Jan Niklas Ewertz and Angel Villar-Corrales and Sven Behnke},
+  booktitle={International Conference on Machine Learning (ICML)},
+  year={2025}
+}
